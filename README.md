@@ -72,10 +72,10 @@ fun_fact   : "I automate everything I do more than once"
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
-| [**PiScan**](https://github.com/BeyondSpace1/PiScan) | Prompt Injection Scanner — web UI + Node.js CLI for detecting AI prompt injection attacks | Node.js · HTML | [Live ↗](https://beyondspace1.github.io/PiScan) |
-| [**API Graveyard Detector**](https://github.com/BeyondSpace1/api-graveyard-detector) | Detects deprecated, sunset, or dead APIs in your codebase with actionable alternatives | JS · HTML | [Live ↗](https://beyondspace1.github.io/api-graveyard-detector) |
+| [**PiScan**](https://github.com/BeyondSpace1/Pi_Scan) | Prompt Injection Scanner — web UI + Node.js CLI for detecting AI prompt injection attacks | Node.js · HTML | [Live ↗](https://github.com/BeyondSpace1/Pi_Scan) |
+| [**API Graveyard Detector**](https://github.com/BeyondSpace1/API-Graveyard) | Detects deprecated, sunset, or dead APIs in your codebase with actionable alternatives | JS · HTML | [Live ↗](https://github.com/BeyondSpace1/API-Graveyard) |
 | [**NexCrypt**](https://github.com/BeyondSpace1/NexCrypt) | Cryptography & cybersecurity toolkit — encryption, hashing, and security utilities | JS · HTML | [Live ↗](https://beyondspace1.github.io/NexCrypt) |
-| [**RegexDecoded**](https://github.com/BeyondSpace1/RegexDecoded) | Visual regex explainer — step-by-step breakdown of any regex pattern with live testing | JS · HTML | [Live ↗](https://beyondspace1.github.io/RegexDecoded) |
+| [**RegexDecoded**](https://github.com/BeyondSpace1/regex-decode) | Visual regex explainer — step-by-step breakdown of any regex pattern with live testing | JS · HTML | [Live ↗](https://regex-decode-qmlr.vercel.app/) |
 
 ### 🏗 Full-Stack Applications
 
